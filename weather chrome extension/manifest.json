@@ -1,0 +1,11 @@
+{
+    "name": "Basic Weather App",
+    "description": "An app that displays the weather.",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "./popup.html"
+    },
+    "permissions": ["activeTab","geolocation"]
+  }
+  
